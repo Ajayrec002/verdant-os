@@ -1,0 +1,6 @@
+{
+  "name": "VerdantOS",
+  "description": "Comprehensive vertical farming operations suite featuring order management, inventory tracking, automated delivery scheduling, real-time growth analytics, and offline-first support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
